@@ -1,0 +1,9 @@
+.wrapper {
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 25px 0 50px;
+  justify-content: space-around;
+  align-content: flex-start;
+  background-image: url('https://i.pinimg.com/originals/8f/1e/f3/8f1ef379e5a28488f0b0ab8c8491f1c0.jpg');
+}
